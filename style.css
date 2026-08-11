@@ -1,0 +1,20 @@
+body {
+    background-color: #f9f9f9;
+    font-family: 'Poppins', sans-serif;
+}
+div[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #2E86C1, #AED6F1);
+    color: white;
+}
+h1, h2, h3 {
+    color: #2E86C1;
+}
+.stButton>button {
+    background-color: #2E86C1;
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+}
+.stButton>button:hover {
+    background-color: #1B4F72;
+}
